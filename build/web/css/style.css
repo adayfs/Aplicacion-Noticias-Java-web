@@ -1,0 +1,74 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 04-feb-2014, 18:46:28
+    Author     : adayfloridosantana
+*/
+@charset "UTF-8";
+/* CSS Document */
+/*--------------------------------------------------ESTILOS GENERALES-----------------------------------------------*/
+body{
+	background-color:#233865;
+	margin:0px;
+	padding:0px;
+	font-family: 'Roboto', sans-serif;
+	word-spacing: 0.1em;
+	text-align: left;
+	letter-spacing: 1px;
+	line-height: 1.2em;
+	font-size: 1.7em;
+	color: #de781a;
+}
+section{
+	width:auto;
+	margin: 1%;
+}
+article{
+	margin-left: 8%;
+	margin-bottom: 2%;
+	width: 70%;
+	border:2px solid #de781a;
+	border-radius: 10px;
+	box-shadow: 2px 2px 4px #000000;
+	padding-left:5%;
+        padding-right:5%;
+	padding-bottom: 2%;
+}
+article:hover{
+	background: #1a3151;
+}
+p{
+	color: white;
+}
+h1{
+	margin-left: 4%;
+	text-decoration: underline;
+}
+h2{
+	text-align: center;
+	color: white;
+	font-weight: normal;
+
+}
+h3{
+	margin-left: 8%;
+	margin-bottom: 0%;
+}
+a{
+	text-decoration: none;
+	color: #ffc042;
+	text-align: right;
+}
+a:hover{
+	color: white;
+}
+.ajax{
+    width:70%;
+    height: auto;
+}
+.letra{
+    font-size: 1.3em;
+}
